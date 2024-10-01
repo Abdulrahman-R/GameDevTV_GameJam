@@ -1,0 +1,26 @@
+Product Name: "LONG LIVE THE KING"
+
+Product Type: Video Game
+
+Target Platform: PC
+
+Game Genre: 2D Pixel Art, Top-Down Game combining Puzzle, Stealth, and Strategy elements.
+
+Game Concept: In the game, you play as a king trapped in a tower while attempting to reclaim his throne. You are wounded and bleeding, so you cannot fight. Your final stand involves luring enemies into traps to escape the tower alive.
+
+Development Methodology: Agile methodology
+
+Development Duration: 10 days
+
+Game Engine: Unity, version 2022.3.39f1
+
+Programming Language: C#
+
+Graphics Software: Aseprite, version 1.3.8.1
+
+Note: This game is made for GameDev.tv Game Jam 2024 with the theme "Last Stand!"
+
+Usage Terms: This project is not allowed to be used for any commercial purposes. For personal use, you must mention me using one of the following contact methods:
+Email: abdulrahman.r.gus@gmail.com
+Discord: A.Alrehaili#2196
+itch.io: ARehaili_Dev

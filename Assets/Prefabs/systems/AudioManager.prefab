@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6216346052388458928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 353936877765287363}
+  - component: {fileID: 7027779847269332120}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &353936877765287363
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6216346052388458928}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7027779847269332120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6216346052388458928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a39cd3fcdd868848aadfeae9607fec2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: huh
+    clip: {fileID: 8300000, guid: 896a6d7f23bcbf945b33c4ca55bc8054, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: collect
+    clip: {fileID: 8300000, guid: c880cac0f0ed42647a81507ac5f21149, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: attacked
+    clip: {fileID: 8300000, guid: ce3a944a1f4320142ac35f8524af3413, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: attack
+    clip: {fileID: 8300000, guid: 7de022f6ddd4a8749976ac124e5b4043, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: drop
+    clip: {fileID: 8300000, guid: 17106f5fda18a734b8130a85726dc130, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: win
+    clip: {fileID: 8300000, guid: 845ce4a30a967474e9eae3a202d2bdba, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
