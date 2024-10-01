@@ -1,6 +1,6 @@
-Product Name: "LONG LIVE THE KING"
+Project Name: "LONG LIVE THE KING"
 
-Product Type: Video Game
+Project Type: Video Game
 
 Target Platform: PC
 
